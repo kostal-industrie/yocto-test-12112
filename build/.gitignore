@@ -1,0 +1,7 @@
+/cache/
+/downloads/
+/sstate-cache/
+/tmp/
+*.log
+/bitbake.lock
+/bitbake.sock
